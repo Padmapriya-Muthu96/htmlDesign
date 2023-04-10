@@ -1,0 +1,63 @@
+body{
+    background-color: gray;
+}
+.fa{
+    color: green;
+}
+.text{
+    margin: 20px 5px;
+}
+a{
+    border-bottom: white;
+    text-align: center;
+    padding: 50px;
+
+}
+.box{
+    padding: 60px 5px;
+}
+.box-inside{
+    background-color: white;
+    padding: 50px 5px;
+    margin: 30px 5px;
+    text-align: center;
+   
+}
+.box-inside2{
+    background-color: white;
+    padding: 50px 5px;
+    margin: 30px 5px;
+    text-align: center;
+   
+}
+.box-inside3{
+    background-color: white;
+    padding: 50px 5px;
+    margin: 30px 5px;
+    text-align: center;
+   
+}
+.box-inside4{
+    background-color: white;
+    padding: 50px 5px;
+    margin: 30px 5px;
+    text-align: center;
+   
+}
+.box-inside5{
+    background-color: white;
+    padding: 50px 5px;
+    margin: 30px 5px;
+    text-align: center;
+   
+}
+.box-inside6{
+    background-color: white;
+    padding: 50px 5px;
+    margin: 30px 5px;
+    text-align: center;
+   
+}
+a {
+    text-decoration: underline;
+  }
